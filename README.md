@@ -1,1 +1,1 @@
-Left-Triangle-Pattern-in-Javascript
+LEFT-TRIANGLE-PATTERN-IN-JAVA SCRIPT
